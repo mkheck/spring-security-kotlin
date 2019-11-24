@@ -12,9 +12,9 @@ This meta-repo accompanies my session titled "Spring Security for N00bz: A quick
 
 == Individual repositories
 
-* https://github.com/mkheck/ssec-forms[Project repo using form-based security with username/password authentication, authorization]
-* https://github.com/mkheck/ssec-oidc[Project repo for login service using OpenID Connect for authentication/OAuth2 for authorization]
-* https://github.com/mkheck/ssec-resource[Project repo for resource server leveraging bearer tokens/JSON Web Tokens (JWT)]
+* https://github.com/mkheck/ssec-forms-kotlin[Project repo using form-based security with username/password authentication, authorization]
+* https://github.com/mkheck/ssec-oidc-kotlin[Project repo for login service using OpenID Connect for authentication/OAuth2 for authorization]
+* https://github.com/mkheck/ssec-resource-kotlin[Project repo for resource server leveraging bearer tokens/JSON Web Tokens (JWT)]
 
 == Related presentation
 
